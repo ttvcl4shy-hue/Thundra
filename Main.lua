@@ -1,5 +1,4 @@
--- special dumped using larry dec/deobf (dsc.gg/larrydeobf)
--- script id: 2acd7a17c139fb86.lua
+
 local larry5 =game["GetService"]
 local larry6 =larry5(game, "HttpService")
 local larry7 =game["GetService"]
